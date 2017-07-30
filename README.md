@@ -6,6 +6,8 @@ Theme for [Discourse](https://meta.discourse.org) forums, altering the display o
 * Less "busy" - emphasises only the latest poster
 * Clearer when first poster is the latest poster
 
+### Example
+
 ![Example](example.png)
 
 ### Installation
