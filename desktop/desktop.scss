@@ -1,0 +1,15 @@
+.topic-list .posters {
+
+  a .avatar:not(.latest) {
+    opacity: 0.3;
+    zoom: 0.7;
+    margin-left: -3px;
+    margin-right: -3px;
+  }
+
+  a:first-child .avatar.latest:not(.single) {
+    box-shadow: none;
+    border: none;
+  }
+
+}
