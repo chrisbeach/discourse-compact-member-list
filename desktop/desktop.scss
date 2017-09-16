@@ -2,7 +2,8 @@
 
   a .avatar:not(.latest) {
     opacity: 0.3;
-    zoom: 0.7;
+    height: 16px;
+    width: 16px;
     margin-left: -3px;
     margin-right: -3px;
   }
